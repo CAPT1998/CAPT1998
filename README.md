@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Developer<br>
+I am a seasoned software engineer with 3 years of experience in building dynamic and user-friendly mobile applications. My expertise spans Flutter, native Android and iOS development, and backend systems using Laravel, allowing me to deliver comprehensive and robust solutions. I am passionate about creating innovative and impactful applications that deliver exceptional user experiences. <br>
 
 
 ## 🌐 Socials:
